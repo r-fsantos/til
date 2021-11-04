@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-This repos is a collection of consice (at least I try) write-ups on concepts I learn day to day regarding several languages and technologies on Software Engineering.
+This repo is a collection of consice (at least I try) write-ups on concepts I learn day to day regarding several languages and technologies on Software Engineering.
 
 I try to update this repo once a week at least.
 
