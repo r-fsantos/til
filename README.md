@@ -8,11 +8,23 @@ I try to update this repo once a week at least.
 
 *"If you want to master something, teach it". Richard P. Feynnman*
 
-### Categories
+## Categories
+
+---
+
+### Databases
+
+* [Database Management Systems -- DBMS](#DBMS)
+
+### DBMS
+
+- [Introduction to Database Management Systems -- DBMS](databases/introduction.md)
+
+### Languages
 
 * [C](#C)
 
-### C
+#### C
 
 - [Passing an arbitrary number of arguments to a function. Like printf canonical function, yeah!](lang-c/00_variadic_functions.md)
 
@@ -22,7 +34,7 @@ I shamelessly (of course not) stole this idea from [Josh Branchaud](jbranchaud/t
 
 ## Other TIL Collections
 
-* I'll add some soon, i feel very sleept right now zZzzzZZZ...
+* I'll add some soon, i feel very sleepy right now zZzzzZZZ...
 
 # License
 
